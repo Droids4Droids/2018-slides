@@ -54,7 +54,7 @@ Salvador Maurilio :mexico: [@Salvador_Mau](https://twitter.com/Salvador_Mau)
 ## Desde Cero A Una Arquitectura Mantenible Y Escalable En Android
 Juan Guillermo Gómez :colombia: [@jggomezt](https://twitter.com/jggomezt)
 
-* Slides: 
+* Slides: https://speakerdeck.com/jggomez/from-scratch-to-a-scalable-architecture
 
 
 ## Integración y despliegue continuo CircleCI2.0 + Intro a Test Tracks
@@ -66,7 +66,7 @@ Nicolas Hurtado :colombia: [@nicolashleon](https://twitter.com/nicolashleon)
 ## Microinteracciones, "Los Detalles No Son Los Detalles, Los Detalles Son El Diseño"
 Herlency Muñoz :colombia: [@herlency](https://twitter.com/herlency)
 
-* Slides: 
+* Slides: https://docs.google.com/presentation/d/1iAKCKrET-q2S_mbwI7hyRX9lOI55ldnVwdaRZITPNxQ/edit?usp=sharing
 
 
 ## Nativas - Híbridas - Cross platform - PWA: Sueños y realidades
